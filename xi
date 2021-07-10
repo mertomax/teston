@@ -1,3 +1,3 @@
-print hi*3
+print hi*n
 print ho
 print hio
